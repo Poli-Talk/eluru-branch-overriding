@@ -1,4 +1,4 @@
-package com.one;
+package com.third;
 
 public class ThirdClass {
 
